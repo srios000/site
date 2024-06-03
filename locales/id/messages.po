@@ -92,7 +92,7 @@ msgstr "✅ coba lakukan ini"
 
 msgid "example.good.body"
 msgstr ""
-"Kalau Kamu masih merasa agak kasar _buat_ sekedar _bilang_ \"Hai\" dan langsung mengajukan inti pertanyaanmu, **coba awali pesanmu dengan basa-basi dulu sebanyak yang kamu mau.**\n"
+"Kalau Kamu masih merasa agak kasar _buat_ sekedar _bilang_ \"Hai\" dan langsung mengajukan inti pertanyaanmu, **coba awali pesanmu dengan basa-basi dulu.**\n"
 "\n"
 "Contohnya:\n"
 "\n"
